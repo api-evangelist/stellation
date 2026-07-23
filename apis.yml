@@ -1,27 +1,90 @@
 aid: stellation
-name: Stellation
-description: 'Stellation is a company surfaced as a portfolio company of foundry-group and added to the
-  API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead awaiting
-  the enrichment pipeline.'
+name: Stellation Capital
+description: >-
+  Stellation Capital is a Brooklyn-based pre-seed and seed venture capital firm founded in 2021 by
+  Peter A. Boyce II, who spent eight years at General Catalyst and co-founded its student-founder
+  program Rough Draft Ventures. Operating under the tagline "Backing Founders At First Light" and
+  the thesis "Present Before Proof," Stellation raised a $40M debut fund and writes first checks of
+  roughly $250K-$2.5M, leading and co-leading rounds for "philomath" founding teams whose identities
+  are inseparable from the problems they are solving — across AI and personal computing, fintech,
+  consumer software, online safety, climate/energy, and consumer health. Portfolio companies include
+  Strobe Power, Revin, Tapestry, Hopscotch (acquired by Avalara), Software Applications Incorporated,
+  swsh, Block Party, Hearth Display, and Vybe. Stellation is also a partner fund in Foundry Group's
+  portfolio, which is how it entered the API Evangelist network. The firm publishes no APIs; this
+  profile carries its identity and portfolio graph.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/yncvzA9InGfyrqMiRrgFO52Czs.png
 url: https://raw.githubusercontent.com/api-evangelist/stellation/refs/heads/main/apis.yml
-x-type: company
+x-type: venture-capital
+x-category: Venture Capital
 x-source: vc-portfolio
 x-backed-by:
 - foundry-group
-x-tier: stub
-x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
-- Company
 - Venture Capital
+- Pre-Seed
+- Seed
+- Early Stage
+- Consumer
+- Fintech
+- AI
+- Climate
+- Brooklyn
+- New York
+- North America
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
+  url: https://apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+  url: http://apisjson.org
+- FN: Stellation Capital
+  url: https://stellation.vc
 common:
 - type: Website
-  url: https://www.stellation.vc
+  url: https://stellation.vc
+- type: Portfolio
+  url: https://stellation.vc/explore
+- type: Portfolio
+  url: portfolio/stellation-portfolio.yml
+- type: Team
+  url: https://stellation.vc/explore
+- type: Team
+  url: team/stellation-team.yml
+- type: Features
+  data:
+  - 'Stage: pre-seed and seed — first-check lead / co-lead investor'
+  - 'Check size: ~$250K-$2.5M'
+  - 'Fund: $40M debut fund (2021)'
+  - 'Thesis: "Present Before Proof" — backing intellectually voracious "philomath" founders whose identities are embedded in what they build'
+  - 'Sectors: AI and personal computing, fintech, consumer software, online safety, climate/energy, consumer health'
+  - 'Geography: United States — headquartered in Brooklyn, New York'
+  - 'Founded: 2021 by Peter A. Boyce II (ex-General Catalyst partner; co-founder of Rough Draft Ventures)'
+  - 'Activity: ~13 investments as of early 2025; notable exit Hopscotch (acquired by Avalara)'
+  - 'Name origin: from Latin stella (star) and stellation, extending a polygon into new dimensions'
+  sources:
+  - https://stellation.vc/explore
+  - https://techcrunch.com/2021/07/08/peter-boyce-stellation-capital/
+  - https://signal.nfx.com/investors/peter-boyce-ii
+  - https://superscout.co/investor/stellation-capital
+  updated: '2026-07-21'
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

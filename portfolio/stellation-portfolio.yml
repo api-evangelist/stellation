@@ -1,0 +1,98 @@
+generated: '2026-07-21'
+method: searched
+source: https://stellation.vc/explore
+sources:
+- https://stellation.vc/explore
+- https://techcrunch.com/2021/07/08/peter-boyce-stellation-capital/
+- https://superscout.co/investor/stellation-capital
+- https://signal.nfx.com/investors/peter-boyce-ii
+type: Portfolio
+summary:
+  portfolio_total: 10
+  in_network: 3
+  api_providers: 0
+  missing: 7
+  stubs_created: 0
+companies:
+- name: Strobe Power
+  description: Autonomous power-marketing platform (founder/CEO Keeley Erhardt, MIT PhD) that connects
+    underutilized distributed energy resources — rooftop solar, batteries, standby generation — to wholesale,
+    capacity, and ancillary-service markets, starting in New York.
+  sector: climate-energy
+  status: active
+  in_network: false
+  suggested_slug: strobe-power
+  is_api_provider: false
+- name: Clusia
+  description: Showcased on the Stellation site; no public detail found beyond the name.
+  sector: unknown
+  status: active
+  in_network: false
+  suggested_slug: clusia
+  is_api_provider: false
+- name: Revin
+  description: Operating system for home-services businesses, founded by Quinn Litherland.
+  sector: home-services-software
+  status: active
+  in_network: false
+  suggested_slug: revin
+  is_api_provider: false
+- name: Tapestry
+  description: Consumer crypto/fintech company founded by David Gabeau (previously Snapchat and Union
+    Square Ventures). Distinct from Tapestry Inc (Coach), which is a separate network repo.
+  sector: consumer-crypto
+  status: active
+  in_network: true
+  slug: tapestry
+  is_api_provider: false
+  matched_by: name-slug
+- name: Hopscotch
+  description: B2B payments and cash-flow platform founded by Reed Switzer; acquired by Avalara. Distinct
+    from Hopscotch Primary Care, which is a separate network repo.
+  sector: fintech-payments
+  status: acquired
+  in_network: true
+  slug: hopscotch
+  is_api_provider: false
+  matched_by: name-slug
+- name: Software Applications Incorporated
+  url: https://software.inc
+  description: Personal-computing software company founded by Ari Weinstein, Conrad Kramer, and Kim Beverett
+    (the Workflow / Apple Shortcuts team); makers of the Sky AI assistant for Mac.
+  sector: consumer-software-ai
+  status: active
+  in_network: false
+  suggested_slug: software-applications-incorporated
+  is_api_provider: false
+- name: swsh
+  description: Group photo-sharing app for events and communities.
+  sector: consumer-social
+  status: active
+  in_network: false
+  suggested_slug: swsh
+  is_api_provider: false
+- name: Block Party
+  url: https://www.blockpartyapp.com
+  description: Consumer privacy and online-safety tooling founded by Tracy Chou — automates auditing and
+    bulk cleanup of social-media exposure.
+  sector: consumer-privacy
+  status: active
+  in_network: true
+  slug: blockpartyapp
+  is_api_provider: false
+  matched_by: domain
+- name: Hearth Display
+  description: Home operating system — a shared display and app for household task management.
+  sector: consumer-hardware
+  status: active
+  in_network: false
+  suggested_slug: hearth-display
+  is_api_provider: false
+- name: Vybe
+  description: Multi-modal AI for video and image analysis, founded by Mandela Patrick and Arnab Ghosh
+    (per Superscout profile).
+  sector: ai-ml
+  status: active
+  in_network: false
+  suggested_slug: vybe
+  is_api_provider: false

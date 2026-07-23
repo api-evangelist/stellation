@@ -1,0 +1,53 @@
+generated: '2026-07-22'
+method: derived
+source_vc: stellation
+leads:
+- name: Strobe Power
+  url: ''
+  suggested_slug: strobe-power
+  sector: climate-energy
+  source_vc: stellation
+  source: ''
+  stub_created: false
+- name: Clusia
+  url: ''
+  suggested_slug: clusia
+  sector: unknown
+  source_vc: stellation
+  source: ''
+  stub_created: false
+- name: Revin
+  url: ''
+  suggested_slug: revin
+  sector: home-services-software
+  source_vc: stellation
+  source: ''
+  stub_created: false
+- name: Software Applications Incorporated
+  url: https://software.inc
+  suggested_slug: software-applications-incorporated
+  sector: consumer-software-ai
+  source_vc: stellation
+  source: ''
+  stub_created: false
+- name: swsh
+  url: ''
+  suggested_slug: swsh
+  sector: consumer-social
+  source_vc: stellation
+  source: ''
+  stub_created: false
+- name: Hearth Display
+  url: ''
+  suggested_slug: hearth-display
+  sector: consumer-hardware
+  source_vc: stellation
+  source: ''
+  stub_created: false
+- name: Vybe
+  url: ''
+  suggested_slug: vybe
+  sector: ai-ml
+  source_vc: stellation
+  source: ''
+  stub_created: false
