@@ -12,6 +12,17 @@ description: >-
   swsh, Block Party, Hearth Display, and Vybe. Stellation is also a partner fund in Foundry Group's
   portfolio, which is how it entered the API Evangelist network. The firm publishes no APIs; this
   profile carries its identity and portfolio graph.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
