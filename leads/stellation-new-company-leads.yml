@@ -3,7 +3,7 @@ method: derived
 source_vc: stellation
 leads:
 - name: Strobe Power
-  url: ''
+  url: https://strobepower.com
   suggested_slug: strobe-power
   sector: climate-energy
   source_vc: stellation
@@ -38,7 +38,7 @@ leads:
   source: https://stellation.vc/explore
   stub_created: false
 - name: Hearth Display
-  url: ''
+  url: https://hearthdisplay.com
   suggested_slug: hearth-display
   sector: consumer-hardware
   source_vc: stellation
