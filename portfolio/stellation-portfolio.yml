@@ -78,6 +78,8 @@ companies:
   in_network: false
   suggested_slug: swsh
   is_api_provider: false
+  url: https://www.joinswsh.com/
+  x-url-source: web search 2026-10-18
 - name: Block Party
   url: https://www.blockpartyapp.com
   description: Consumer privacy and online-safety tooling founded by Tracy Chou — automates auditing and
